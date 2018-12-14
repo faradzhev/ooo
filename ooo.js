@@ -6,3 +6,4 @@ while(o-->0) {
 }
 O+= " " + a.indexOf('f') + a[12];
 alert(O);
+//output: "ooo 5m"
