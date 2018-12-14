@@ -8,6 +8,10 @@ Let's use all the best skills we have to prepare alternatives to "OOO" abbreviat
    <img src="https://raw.githubusercontent.com/faradzhev/creepy-ooo/master/ooo.png" />
 </a>
 
+## Best example
+**Golang** waits until 3 'o' will be randomly selected and prints seconds of running time
+<img src="https://i.imgur.com/E7eBDyo.png" />
+
 ## Contribute
 1. Contribute to the repository with any file type, any programming or human language
 2. Text should give a clear message about you going or being out of the office
