@@ -11,7 +11,7 @@ Let's use all the best skills we have to prepare alternatives to "OOO" abbreviat
 
 
 ## Best example
-[**Golang**](https://github.com/faradzhev/creepy-ooo/blob/master/ooo.go) waits until 3 'o' will be randomly selected and prints seconds of running time
+[**Golang**](https://github.com/faradzhev/creepy-ooo/blob/master/ooo.go) waits until 3 `o` are randomly matched and prints seconds of running time
 
 [<img src="https://i.imgur.com/E7eBDyo.png" />](https://github.com/faradzhev/creepy-ooo/blob/master/ooo.go)
 
