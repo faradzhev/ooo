@@ -9,4 +9,4 @@ Let's use all the best skills we have to prepare alternatives to "OOO" abbreviat
 2. Text should give a clear message about you going or being out of the office
 3. Use as much creativity as you can
 4. Don't replace existing file types, texts, scripts. Extend them instead, or add a new ones
-5. Use Pull Requests
+5. Use [Pull Requests](https://github.com/faradzhev/creepy-ooo/pulls)
