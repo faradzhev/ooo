@@ -12,5 +12,6 @@ Let's use all the best skills we have to prepare alternatives to "OOO" abbreviat
 1. Contribute to the repository with any file type, any programming or human language
 2. Text should give a clear message about you going or being out of the office
 3. Use as much creativity as you can
-4. Don't replace existing file types, texts, scripts. Extend them instead, or add a new ones
-5. Use [Pull Requests](https://github.com/faradzhev/creepy-ooo/pulls)
+4. **If it's a script, or text in a sertain language, than it should be only understandable in this specific language**
+5. Don't replace existing file types, texts, scripts. Extend them instead, or add a new ones
+6. Use [Pull Requests](https://github.com/faradzhev/creepy-ooo/pulls)
